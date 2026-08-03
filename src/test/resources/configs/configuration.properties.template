@@ -1,0 +1,10 @@
+# ===================================================
+# Configuration Template
+# Rename to configuration.properties and fill values
+# The real file is git-ignored for security.
+# ===================================================
+
+browser=chrome
+url=https://opensource-demo.orangehrmlive.com
+username=Admin
+password=admin123
