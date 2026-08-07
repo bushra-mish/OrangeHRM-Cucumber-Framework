@@ -20,7 +20,6 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.ps1
 
 # Security — real credentials
 src/test/resources/configs/configuration.properties
